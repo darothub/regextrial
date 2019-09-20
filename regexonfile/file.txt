@@ -1,0 +1,22 @@
+This is a text file with a string and a phone number.
+My phone number is +2347013048685 and my address is 2nd Floor Traditions Building.
+
+Your task is to find a substring within this text document.
+But I know you'll scam me, so I'm gonna make it a bit difficult to find.
+
+Bridget's phone number is +2348050194095
+Zamyla's phone number is +2348149203894
+Andy's phone is +2349057820193
+
+Dave's phone is 08030148503 and Anne's phone is 08050201048.
+
+A bunch of people also have tokens that are alphanumeric in nature.
+
+Indy's token is 293e39
+Lola's token is 91a28b
+Charles's token is af291c
+
+Tokens are alphanumber but hexadecimal as you'll see.
+
+Bade lives at 59 Badru Estate, Lagos. Sola lives at 4 Novella Street, Lagos.
+Bayo lives at 3 Iyin Street, Ibadan.
